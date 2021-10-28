@@ -1,0 +1,15 @@
+.name{
+    color: rgb(10, 123, 216);
+    text-decoration: none;
+    font-size: x-large;
+    font-weight: bolder;
+    padding: 5px;
+}
+.link{
+    text-decoration: none;
+    padding: 0px 10px 0px 20px;
+    color:rgb(10, 123, 216)
+}
+.icon{
+    /* font-size:3px; */
+}
